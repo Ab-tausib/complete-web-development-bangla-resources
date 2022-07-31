@@ -1,0 +1,108 @@
+/* Header starts here  */
+#header{
+    background: url("./images/Backgroud/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.highlight-text{
+    color: rgb(236 76 118);
+    font-weight: bold;
+}
+
+.header-1st-div p{
+    color: #999;
+    font-size: 15px;
+    
+}
+
+.header-1st-div input{
+    width: 150px;
+    padding: 6px;
+    background-color: rgb(236 76 118 );
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+/* Header ends here  */
+
+/* biography start here */
+#biography{
+    margin-top: 150px;
+    background: url("./images/Backgroud/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bio-2nd-div{
+    margin-top: 140px;
+    margin-left: 80px;
+}
+
+
+.bio-2nd-div p{
+    text-align: justify;
+    color: #999;
+    font-size: 15px;
+    
+}
+
+.bio-2nd-div input{
+    width: 150px;
+    padding: 6px;
+    background-color: rgb(236 76 118 );
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+/* biography end here */
+
+/* latest start here */
+#letest-work{
+    background: url(./images/Backgroud/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 150px;
+}
+
+.lat-1st-div{
+    margin-bottom: 40px;
+}
+
+/* latest end here */
+
+/* Footer start here  */
+
+#footer{
+    background: url("./images/Backgroud/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 160px;
+}
+
+.footer-1st-div{
+    text-align: center;
+}
+
+.footer-1st-div h6{
+    font-weight: bold;
+}
+.footer-1st-div span{
+    font-size: 11px;
+    color: #999;
+}
+
+.footer-1st-div p{
+    color: rgb(96, 95, 95);
+}
+
+.footer-2nd-div{
+    text-align: center;
+    background-color: rgb(236 76 118);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 70px;
+}
+
+/* Footer end here  */
